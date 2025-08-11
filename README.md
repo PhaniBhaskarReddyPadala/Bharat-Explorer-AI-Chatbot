@@ -18,12 +18,12 @@ The chatbot is powered by a **Python–Flask** backend and integrates the **Goog
 ---
 
 ## Tools and Technologies Used
-**Python** – Core development language
-**Flask** – Web framework for backend
-**HTML/CSS/JavaScript** – Frontend (developed with Claude AI & ChatGPT)
-**Google Gemini API** – AI-powered response generation
-**python-dotenv** – Secure handling of API keys
-**Session Management** – Maintains conversation history and context
+- **Python** – Core development language
+- **Flask** – Web framework for backend
+- **HTML/CSS/JavaScript** – Frontend (developed with Claude AI & ChatGPT)
+- **Google Gemini API** – AI-powered response generation
+- **python-dotenv** – Secure handling of API keys
+- **Session Management** – Maintains conversation history and context
 
 ---
 
